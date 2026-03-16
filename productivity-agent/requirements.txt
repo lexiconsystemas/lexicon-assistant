@@ -1,0 +1,7 @@
+discord.py
+fastapi
+uvicorn
+sqlalchemy
+apscheduler
+python-dotenv
+openai
